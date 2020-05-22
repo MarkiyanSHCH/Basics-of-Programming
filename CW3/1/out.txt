@@ -1,0 +1,6 @@
+
+Uni4,city4,1900, 864
+Uni3,city3,1901, 764
+Uni2,city2,1987, 543
+Uni1,city1,1989, 234
+Uni5,city5,2000, 675
